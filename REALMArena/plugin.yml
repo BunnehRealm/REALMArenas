@@ -1,0 +1,5 @@
+name: REALMArenas
+main: net.bunnehrealm.realmarena.RealmArenas
+version: 1.0
+description: >
+            Arenas for bukkit servers.
